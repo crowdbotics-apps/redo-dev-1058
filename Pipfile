@@ -23,3 +23,4 @@ packaging = "*"
 drf-yasg = "~=1.16.1"
 
 boto3 = "*"
+stripe = "*"
